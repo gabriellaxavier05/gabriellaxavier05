@@ -4,7 +4,7 @@
 
 ⌨️ Programando em Java e mexendo um pouquinho com HTML, CSS e Spring Boot.
 
-👩🏻‍💻 Atuando como desenvolvedora back-end jr em Java
+🔍 Atuando como analista de testes
 
 📩 Contate-me através do e-mail gabriellaxaviersp05@outlook.com
 
