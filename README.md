@@ -2,7 +2,7 @@
 
 📚 Cursando Análise e Desenvolvimento de Sistemas e estudando técnicas de testes de software.
 
-⌨️ Programando em Java, C e mexendo um pouquinho com HTML, CSS e JS.
+⌨️ Programando em Java e mexendo um pouquinho com HTML, CSS e JS.
 
 🔍 Atuando como Analista de Testes Júnior.
 
