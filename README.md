@@ -1,6 +1,8 @@
 ### Olá! Sou a Gabriella Xavier! 👋😊
 
-📚 Cursando Análise e Desenvolvimento de Sistemas e estudando técnicas de testes de software.
+📚 Tecnóloga em Análise e Desenvolvimento de Sistemas pela Fatec Ferraz de Vasconcelos.
+
+💼 Atuando como Analista de Testes | Trainee
 
 ⌨️ Programando em Java e mexendo um pouquinho com HTML, CSS e JS.
 
