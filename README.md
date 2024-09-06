@@ -1,6 +1,6 @@
 ### Olá! Sou a Gabriella Xavier! 👋😊
 
-📚 Tecnóloga em Análise e Desenvolvimento de Sistemas pela Fatec Ferraz de Vasconcelos.
+🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas pela Fatec Ferraz de Vasconcelos.
 
 💼 Atuando como Analista de Testes | Trainee
 
