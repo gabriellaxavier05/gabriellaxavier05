@@ -1,0 +1,1 @@
+Neste repositório serão armazenados projetos em HTML e CSS sobre os meus conhecimentos e experiências profissionais em forma de CV.
