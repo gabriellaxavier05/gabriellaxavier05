@@ -1,4 +1,13 @@
 <h2 align="left">Olá! Sou a Gabriella Xavier! 😊👋</h2>
+<br>
+
+###
+
+<h3 align="left">Sobre mim</h3>
+<p align="left">🎓 Formada em Análise e Desenvolvimento de Sistemas pela Fatec Ferraz de Vasconcelos</p>
+<p align="left">💼 Atuando como Trainee | Analista de Testes Jr. em uma empresa de consultoria de tecnologia</p>
+<p align="left">📖 Estudando sobre Testes e Qualidade de Software</p>
+<p align="left">⌨️ Programando um pouco em Java, JavaScript e Banco de Dados</p>
 
 ###
 
