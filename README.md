@@ -51,7 +51,7 @@
 ###
 <br>
 
-<h3 align="left=">Redes socias</h3>
+<h3 align="left=">Contato / Redes sociais</h3>
 <div align="left">
   <!-- Outlook -->
   <a href="gabriellaxaviersp05@outlook.com" target="_blank">
