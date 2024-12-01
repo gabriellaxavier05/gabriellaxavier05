@@ -4,7 +4,7 @@
 
 💼 Atuando como Trainee | Analista de Testes de Software
 
-📖 Estudando sobre Tetes e Qualidade de Software
+📖 Estudando sobre Testes e Qualidade de Software
 
 ⌨️ Programando um pouco em Java, JavaScript e banco de dados
 
