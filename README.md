@@ -1,15 +1,11 @@
 <h2 align="left">Olá! Sou a Gabriella Xavier! 😊👋</h2>
 <br>
 
-###
-
 <h3 align="left">Sobre mim</h3>
 <p align="left">🎓 Formada em Análise e Desenvolvimento de Sistemas pela Fatec Ferraz de Vasconcelos</p>
 <p align="left">💼 Atuando como Trainee | Analista de Testes Jr. em uma empresa de consultoria de tecnologia</p>
 <p align="left">📖 Estudando sobre Testes e Qualidade de Software</p>
 <p align="left">⌨️ Programando um pouco em Java, JavaScript e Banco de Dados</p>
-
-###
 
 <br>
 <div align="center">
@@ -17,9 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellaxavier05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-###
 <br>
 <h3 align="left=">Tecnologias e ferramentas</h3>
 
@@ -55,11 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-###
-
-###
 <br>
-
 <h3 align="left=">Contato / Redes sociais</h3>
 <div align="left">
   <!-- Outlook -->
@@ -74,5 +63,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/>
   </a>
 </div>
-
-###
