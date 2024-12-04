@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Sou a Gabriella Xavier! 😊👋</h2>
+<h2 align="left">Olá! Sou a Gabriella Xavier! 😊👋🏼</h2>
 <br>
 
 <h3 align="left">Sobre mim</h3>
