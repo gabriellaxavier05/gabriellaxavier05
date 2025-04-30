@@ -5,7 +5,8 @@
 <p align="left">🎓 Formada em Análise e Desenvolvimento de Sistemas pela Fatec Ferraz de Vasconcelos</p>
 <p align="left">💼 Atuando como Trainee | Analista de Testes Jr. em uma empresa de consultoria de tecnologia</p>
 <p align="left">📖 Estudando sobre Testes e Qualidade de Software</p>
-<p align="left">⌨️ Programando um pouco em Java, JavaScript, Ruby e Banco de Dados</p>
+<p align="left">🤖 Automatizando testes com Cypress</p>
+<p align="left">⌨️ Programando um pouco em Java, JavaScript e Banco de Dados</p>
 
 <br>
 <div align="center">
@@ -29,6 +30,8 @@
   <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <!-- Cypress -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" height="40" alt="cypress logo" />
   <!-- Microsoft SQL Server -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
@@ -38,6 +41,8 @@
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
+  <!-- Jira -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" height="40" alt="jira logo"/>    
   <!-- Trello -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
   <img width="12" />
