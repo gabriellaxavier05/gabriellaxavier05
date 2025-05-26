@@ -2,7 +2,7 @@
 <br>
 
 <h3 align="left">👤 Sobre mim</h3>
-<p align="left">Sou formada em Análise e Desenvolvimento de Sistemas pela Fatec Ferraz de Vaconcelos e trabalho como Analista de Testes Trainee. Estou em constante aprendizado sobre testes e qualidade de software. Possuo mais de 2 anos e meio de experiência na área de Tecnologia da Informação. Quanto a testes de software, tenho experiência com testes manuais e sei mexer com Cypress, Postman e com Robot Framework. Conheço as linguagens de programação JavaScript, Java e Python, e os bancos de dados MySQL e SQL Server. No ambiente de trabalho, já prototipei muitas funcionalidades usando o Figma. 😁</p>
+<p align="left">Sou formada em Análise e Desenvolvimento de Sistemas pela Fatec Ferraz de Vaconcelos e tenho experiência há mais de 2 anos e meio como Analista de Testes. Estou em constante aprendizado sobre testes e qualidade de software. Trabalhei com planejamento de testes e execução de testes manuais e sei mexer com Cypress, Postman e com Robot Framework. Conheço as linguagens de programação JavaScript, Java e Python, e os bancos de dados MySQL e SQL Server. No ambiente de trabalho, já prototipei muitas funcionalidades usando o Figma. Também sou uma entusiasta quando o assunto é Experiência de Usuário (UX). 😁</p>
 
 <br>
 <div align="center">
